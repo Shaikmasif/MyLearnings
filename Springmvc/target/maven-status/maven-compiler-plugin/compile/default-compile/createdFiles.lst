@@ -1,0 +1,8 @@
+com\springmvc\dao\StudentDao.class
+com\springmvc\dao\StudentDaoImpl.class
+com\springmvc\service\RegistrationService.class
+com\springmvc\HomeController.class
+com\springmvc\model\Student.class
+com\springmvc\FileController.class
+com\springmvc\FormController.class
+com\springmvc\User.class
